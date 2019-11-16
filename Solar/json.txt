@@ -1,0 +1,16 @@
+[
+{
+"Cloud Coverage": "0.3075",
+"Temperature": "10.0",
+"Dew Point": "5.076",
+"Relative humidity": "82.556",
+"Wind speed":"13.278",
+"Station Pressure": "29",
+"Altimeter": "31.223",
+"Solar energy": "17889",
+"Year":"2019",
+"Month":"6"
+
+
+
+}	]
